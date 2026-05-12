@@ -15,7 +15,7 @@ public class Main {
             System.out.println(uuidV7);
             System.out.println();
 
-            Thread.sleep(3000); // 3 segundos
+            Thread.sleep(2000);
         }
     }
 }
