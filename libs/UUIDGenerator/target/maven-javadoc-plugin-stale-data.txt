@@ -1,0 +1,43 @@
+@options
+@packages
+-classpath
+'C:/Users/wagne/.m2/repository/com/github/f4b6a3/uuid-creator/6.1.1/uuid-creator-6.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'E:/Windows/Downloads/Programacao/workspaces/WORKSPACES_WAGNERDBA/maven_central/libs/UUIDGenerator/src/main/java;E:/Windows/Downloads/Programacao/workspaces/WORKSPACES_WAGNERDBA/maven_central/libs/UUIDGenerator/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Windows/Downloads/Programacao/workspaces/WORKSPACES_WAGNERDBA/maven_central/libs/UUIDGenerator/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UUID Generator 2.0.0 API'
+-use
+-version
+-windowtitle
+'UUID Generator 2.0.0 API'
+io.github.wagnerdba.uuid
+C:\Users\wagne\.m2\repository\com\github\f4b6a3\uuid-creator\6.1.1\uuid-creator-6.1.1.jar = 1778547347748
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\src\main\java = 1778541994990
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\generated-sources\annotations = 1778547472961
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\allclasses-index.html = 1778547476416
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\allpackages-index.html = 1778547476419
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\element-list = 1778547475562
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\help-doc.html = 1778547476440
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\index-all.html = 1778547476431
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\index.html = 1778547476436
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\member-search-index.js = 1778547476423
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\module-search-index.js = 1778547476420
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\overview-tree.html = 1778547476406
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\package-search-index.js = 1778547476421
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\search.html = 1778547476434
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\tag-search-index.js = 1778547476424
+E:\Windows\Downloads\Programacao\workspaces\WORKSPACES_WAGNERDBA\maven_central\libs\UUIDGenerator\target\apidocs\type-search-index.js = 1778547476422

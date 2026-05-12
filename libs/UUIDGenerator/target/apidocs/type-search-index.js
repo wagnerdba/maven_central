@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.wagnerdba.uuid","l":"Main"},{"p":"io.github.wagnerdba.uuid","l":"UUIDGenerator"}];updateSearchResults();
