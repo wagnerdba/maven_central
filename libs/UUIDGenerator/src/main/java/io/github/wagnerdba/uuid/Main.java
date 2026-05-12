@@ -1,13 +1,23 @@
 package io.github.wagnerdba.uuid;
 
 public class Main {
-    /*
-    public static void main(String[] args) {
 
-        String uuid = io.github.wagnerdba.uuid.UUIDGenerator.generateV4();
+    public static void main(String[] args) throws InterruptedException {
 
-        System.out.println(uuid);
+        for (;; ) {
+
+            String uuidV4 = UUIDGenerator.generateV4();
+            String uuidV7 = UUIDGenerator.generateV7();
+
+            System.out.print("UUID V4: ");
+            System.out.println(uuidV4);
+
+            System.out.print("UUID V7: ");
+            System.out.println(uuidV7);
+            System.out.println();
+
+            Thread.sleep(2000);
+        }
     }
-    */
 }
 
