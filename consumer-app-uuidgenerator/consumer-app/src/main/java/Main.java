@@ -3,7 +3,7 @@ import io.github.wagnerdba.uuid.UUIDGenerator;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
 
-        while (true) {
+        for (;;) {
 
             String uuidV4 = UUIDGenerator.generateV4();
             String uuidV7 = UUIDGenerator.generateV7();
