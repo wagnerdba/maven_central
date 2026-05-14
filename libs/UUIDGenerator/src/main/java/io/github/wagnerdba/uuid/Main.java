@@ -3,7 +3,7 @@ package io.github.wagnerdba.uuid;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
-
+/*
         for (;; ) {
 
             String uuidV4 = UUIDGenerator.generateV4();
@@ -18,6 +18,8 @@ public class Main {
 
             Thread.sleep(2000);
         }
+*/
     }
+
 }
 
